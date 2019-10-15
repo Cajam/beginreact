@@ -4,7 +4,7 @@ class Order extends React.Component {
     render() {
         return (
             <React.Fragment>
-<span>Order</span>
+                <span>Order</span>
             </React.Fragment>
         );
     }
